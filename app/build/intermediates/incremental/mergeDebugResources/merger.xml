@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res"/><source path="C:\accounts\RBS\android1\ePassportReader-master\app\build\generated\res\rs\debug"/><source path="C:\accounts\RBS\android1\ePassportReader-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\accounts\RBS\android1\ePassportReader-master\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res"><file name="icon" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="layout_border" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-hdpi\layout_border.xml" qualifiers="hdpi-v4" type="drawable"/><file name="linearlayout_selector" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-hdpi\linearlayout_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="section_header" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-hdpi\section_header.xml" qualifiers="hdpi-v4" type="drawable"/><file name="section_separator_vertical" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-hdpi\section_separator_vertical.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="credentialseditor_layout" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\layout\credentialseditor_layout.xml" qualifiers="" type="layout"/><file name="credential_layout" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\layout\credential_layout.xml" qualifiers="" type="layout"/><file name="main_layout" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\layout\main_layout.xml" qualifiers="" type="layout"/><file name="passport_info_display_layout" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\layout\passport_info_display_layout.xml" qualifiers="" type="layout"/><file name="context_menu" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\menu\context_menu.xml" qualifiers="" type="menu"/><file name="credential_editor" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\menu\credential_editor.xml" qualifiers="" type="menu"/><file name="main" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values\color.xml" qualifiers=""><color name="selected_color_background">#429BBB</color><color name="background_blue">#429BBB</color><color name="text_general">#6E6E6E</color><color name="section_header_separator">#0099CC</color><color name="section_header_text">#0099CC</color><color name="section_header_emphasis">#33B5E5</color><color name="layout_border">#6E6E6E</color><color name="text_clear">#585858</color><color name="selected_imageview">#ffffff</color><color name="title_layout_background">#1C1C1C</color><color name="layout_background">#00ffffff</color></file><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values\strings.xml" qualifiers=""><string name="title_activity_reader">ReaderActivity</string><string name="passport_dateofbirth">Date of birth</string><string name="passport_fingerprint">SHA1 Fingerprint</string><string name="passport_passport_info">Passport info</string><string name="passport_datagroup_hashes">Datagroup hashes</string><string name="passport_datagroup_computed">Computed:</string><string name="title_activity_credential_editor">CredentialEditor</string><string name="passport_personal_info">Personal info</string><string name="passport_expirationdate">Expiration date</string><string name="passport_photo">Photo</string><string name="passport_expeditiondate">Expedition date</string><string name="passport_datagroup_stored">Stored:</string><string name="editor_saveButton">Save</string><string name="credentials_DocNumber">Document Number</string><string name="passport_name">Name</string><string name="passport_id">Personal Number</string><string name="passport_signatureal">Signature algorithm</string><string name="credentials_bDate">Birth Date</string><string name="passport_number">Passport number</string><string name="hello_world">Hello world!</string><string name="passport_datagroup1">Datagroup 1</string><string name="passport_gender">Gender</string><string name="passport_datagroup15">Datagroup 14</string><string name="action_settings">Settings</string><string name="passport_surnames">Surnames</string><string name="passport_datagroup2">Datagroup 2</string><string name="app_name">ePassportReader</string><string name="passport_datagroup3">Datagroup 3</string><string name="title_activity_passport_info_display">PassportInfoDisplay</string><string name="passport_datagroup_computedMD5">Computed with MD5:</string><string name="credentials_eDate">Expiration Date</string><string name="passport_nationality">Nationality</string><string name="actionBar_add">Add</string><string name="main_addCredentials">New Entry</string><string name="main_textView">Choose credentials entry for ePassport reading</string><string name="passport_certificate">Certificate</string></file><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values\styles.xml" qualifiers=""><style name="sectionHeader" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:drawableBottom">@drawable/section_header</item>
+        <item name="android:drawablePadding">1dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/section_header_text</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="titleTextLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/title_layout_background</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="sectionVerticalSeparator">
+        <item name="android:drawableLeft">@drawable/section_separator_vertical</item>
+        <item name="android:drawablePadding">1dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/section_header_text</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="backgroundLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/background_blue</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingTop">1dp</item>
+    </style><style name="layoutBorder">
+        <item name="android:background">@drawable/layout_border</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style><style name="highligtedText" parent="android:attr/textAppearanceSmall">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="titleText" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/text_clear</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="nfc_techs" path="C:\accounts\RBS\android1\ePassportReader-master\app\src\main\res\xml\nfc_techs.xml" qualifiers="" type="xml"/></source><source path="C:\accounts\RBS\android1\ePassportReader-master\app\build\generated\res\rs\debug"/><source path="C:\accounts\RBS\android1\ePassportReader-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\accounts\RBS\android1\ePassportReader-master\app\src\debug\res"/></dataSet><mergedItems/></merger>

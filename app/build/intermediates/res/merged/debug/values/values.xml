@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_blue">#429BBB</color>
+    <color name="layout_background">#00ffffff</color>
+    <color name="layout_border">#6E6E6E</color>
+    <color name="section_header_emphasis">#33B5E5</color>
+    <color name="section_header_separator">#0099CC</color>
+    <color name="section_header_text">#0099CC</color>
+    <color name="selected_color_background">#429BBB</color>
+    <color name="selected_imageview">#ffffff</color>
+    <color name="text_clear">#585858</color>
+    <color name="text_general">#6E6E6E</color>
+    <color name="title_layout_background">#1C1C1C</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="actionBar_add">Add</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ePassportReader</string>
+    <string name="credentials_DocNumber">Document Number</string>
+    <string name="credentials_bDate">Birth Date</string>
+    <string name="credentials_eDate">Expiration Date</string>
+    <string name="editor_saveButton">Save</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_addCredentials">New Entry</string>
+    <string name="main_textView">Choose credentials entry for ePassport reading</string>
+    <string name="passport_certificate">Certificate</string>
+    <string name="passport_datagroup1">Datagroup 1</string>
+    <string name="passport_datagroup15">Datagroup 14</string>
+    <string name="passport_datagroup2">Datagroup 2</string>
+    <string name="passport_datagroup3">Datagroup 3</string>
+    <string name="passport_datagroup_computed">Computed:</string>
+    <string name="passport_datagroup_computedMD5">Computed with MD5:</string>
+    <string name="passport_datagroup_hashes">Datagroup hashes</string>
+    <string name="passport_datagroup_stored">Stored:</string>
+    <string name="passport_dateofbirth">Date of birth</string>
+    <string name="passport_expeditiondate">Expedition date</string>
+    <string name="passport_expirationdate">Expiration date</string>
+    <string name="passport_fingerprint">SHA1 Fingerprint</string>
+    <string name="passport_gender">Gender</string>
+    <string name="passport_id">Personal Number</string>
+    <string name="passport_name">Name</string>
+    <string name="passport_nationality">Nationality</string>
+    <string name="passport_number">Passport number</string>
+    <string name="passport_passport_info">Passport info</string>
+    <string name="passport_personal_info">Personal info</string>
+    <string name="passport_photo">Photo</string>
+    <string name="passport_signatureal">Signature algorithm</string>
+    <string name="passport_surnames">Surnames</string>
+    <string name="title_activity_credential_editor">CredentialEditor</string>
+    <string name="title_activity_passport_info_display">PassportInfoDisplay</string>
+    <string name="title_activity_reader">ReaderActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="backgroundLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/background_blue</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingTop">1dp</item>
+    </style>
+    <style name="highligtedText" parent="android:attr/textAppearanceSmall">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="layoutBorder">
+        <item name="android:background">@drawable/layout_border</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+    <style name="sectionHeader" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:drawableBottom">@drawable/section_header</item>
+        <item name="android:drawablePadding">1dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/section_header_text</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="sectionVerticalSeparator">
+        <item name="android:drawableLeft">@drawable/section_separator_vertical</item>
+        <item name="android:drawablePadding">1dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/section_header_text</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="titleText" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/text_clear</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="titleTextLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/title_layout_background</item>
+    </style>
+</resources>

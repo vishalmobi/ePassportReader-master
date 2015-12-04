@@ -1,0 +1,1127 @@
+[
+    {
+        "outputFile": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 49,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 53,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 53,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 47,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endColumn": 47,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 57,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 57,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 58,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 58,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 53,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 53,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 59,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 5,
+                        "startOffset": 786,
+                        "endColumn": 60,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 52,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 5,
+                        "startOffset": 953,
+                        "endColumn": 53,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 44,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 44,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 46,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 46,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 57,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 5,
+                        "startOffset": 680,
+                        "endColumn": 58,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 57,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 55,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 45,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 45,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 52,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 52,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 65,
+                    "endOffset": 968
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 65,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 973,
+                    "endColumn": 56,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 56,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 61,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 61,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 50,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 50,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endColumn": 52,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 57,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 57,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 88,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 88,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 60,
+                    "endOffset": 1399
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1726,
+                        "endColumn": 60,
+                        "endOffset": 1782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1404,
+                    "endColumn": 59,
+                    "endOffset": 1459
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 59,
+                        "endOffset": 2048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1464,
+                    "endColumn": 61,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2173,
+                        "endColumn": 61,
+                        "endOffset": 2230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 59,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2053,
+                        "endColumn": 59,
+                        "endOffset": 2108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 59,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2113,
+                        "endColumn": 59,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 65,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2297,
+                        "endColumn": 65,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endColumn": 77,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 77,
+                        "endOffset": 2436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endColumn": 70,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1922,
+                        "endColumn": 70,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 61,
+                    "endOffset": 1918
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2235,
+                        "endColumn": 61,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1923,
+                    "endColumn": 62,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 62,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endColumn": 67,
+                    "endOffset": 2049
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endColumn": 67,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2054,
+                    "endColumn": 67,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endColumn": 67,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endColumn": 65,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 65,
+                        "endOffset": 1917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 50,
+                    "endOffset": 2234
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 50,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2239,
+                    "endColumn": 55,
+                    "endOffset": 2290
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 55,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2295,
+                    "endColumn": 46,
+                    "endOffset": 2337
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 46,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2342,
+                    "endColumn": 60,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 60,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 59,
+                    "endOffset": 2458
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1474,
+                        "endColumn": 59,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2463,
+                    "endColumn": 64,
+                    "endOffset": 2523
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1409,
+                        "endColumn": 64,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2528,
+                    "endColumn": 64,
+                    "endOffset": 2588
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 64,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2593,
+                    "endColumn": 48,
+                    "endOffset": 2637
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 48,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2642,
+                    "endColumn": 68,
+                    "endOffset": 2706
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1787,
+                        "endColumn": 68,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2711,
+                    "endColumn": 54,
+                    "endOffset": 2761
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 54,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2766,
+                    "endColumn": 77,
+                    "endOffset": 2839
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 77,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2844,
+                    "endColumn": 84,
+                    "endOffset": 2924
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 84,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2929,
+                    "endColumn": 64,
+                    "endOffset": 2989
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 64,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2994,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3280
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3285,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3841
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1961,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3846,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 4066
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3107,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 3327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4071,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2684,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 3065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 5137
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5142,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 5618
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5623,
+                    "endLine": 109,
+                    "endColumn": 12,
+                    "endOffset": 6041
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3333,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 3751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6046,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 6292
+                },
+                "from": {
+                    "file": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 2646
+                    }
+                }
+            }
+        ]
+    }
+]

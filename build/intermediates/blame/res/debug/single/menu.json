@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\menu\\credential_editor.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\menu\\credential_editor.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\menu\\context_menu.xml"
+    }
+]

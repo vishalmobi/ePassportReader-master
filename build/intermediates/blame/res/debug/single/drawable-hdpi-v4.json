@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_border.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\drawable-hdpi\\layout_border.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\linearlayout_selector.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\drawable-hdpi\\linearlayout_selector.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\section_header.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\drawable-hdpi\\section_header.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\section_separator_vertical.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\drawable-hdpi\\section_separator_vertical.xml"
+    }
+]

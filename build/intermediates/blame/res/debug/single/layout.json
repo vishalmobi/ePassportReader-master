@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\layout\\credential_layout.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\layout\\credential_layout.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\layout\\credentialseditor_layout.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\layout\\credentialseditor_layout.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\layout\\passport_info_display_layout.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\layout\\passport_info_display_layout.xml"
+    },
+    {
+        "merged": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "C:\\accounts\\RBS\\android1\\ePassportReader-master\\src\\main\\res\\layout\\main_layout.xml"
+    }
+]

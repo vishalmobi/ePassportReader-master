@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\accounts\RBS\android1\ePassportReader-master\app\libs\scuba.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9b3140b7e56807c792d6bed33ba9831339e186b4">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\scuba_025d8e8dca6608f0f246593b1727d51279f279ab.jar" />
+    </item>
+    <item
+        jar="C:\accounts\RBS\android1\ePassportReader-master\app\libs\cert-cvc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="33f8f429280035ba4bdb9a08ba32f50c581b85ac">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\cert-cvc_cb9abf72b0bdfcf26a114ad0da1c8373e566625b.jar" />
+    </item>
+    <item
+        jar="C:\accounts\RBS\android1\ePassportReader-master\app\libs\scprov-jdk15on-1.47.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="12e5fa71f9d623892dfc8a670133019bed819fd5">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\scprov-jdk15on-1.47.0.1_67b70dd4d5272fe7cf9080f73f16f29dc9f8261f.jar" />
+    </item>
+    <item
+        jar="C:\accounts\RBS\android1\ePassportReader-master\app\libs\wsq_imageutil.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd0b2f4b2d7afca27009f7ad1fee910d31b6aa0f">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\wsq_imageutil_64113b404248d349bb00f4f69f80db60f561472b.jar" />
+    </item>
+    <item
+        jar="C:\accounts\RBS\android1\ePassportReader-master\app\libs\jmrtd.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="173abec7d7b2b50326b6909b7dc342f8cbe325c0">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\jmrtd_c7989c25614c9c1252cd7015b1e60496624480e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\vishal_jain1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f6b378f77d14c49c7f5e3267cc38f8821d703c6d.jar" />
+    </item>
+    <item
+        jar="C:\accounts\RBS\android1\ePassportReader-master\app\libs\jj2000_imageutil.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6b586c825c2756b72183f84b6c568506279f3dc">
+        <dex dex="C:\accounts\RBS\android1\ePassportReader-master\app\build\intermediates\pre-dexed\debug\jj2000_imageutil_06038803545f327e805c634cfe202a89c61a2470.jar" />
+    </item>
+
+</items>
